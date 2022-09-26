@@ -9,6 +9,14 @@ or for all charts.
 Implemented using React and TypeScript.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tech Stack
+
+- React
+- Redux (RTK, RTKQ)
+- Highcharts
+- Tailwind CSS
+- Headless UI
+
 ## What can be improved
 
 - charts list can be rendered lazy (infinite scroll like)
