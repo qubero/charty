@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/charty/static/css/main.885b9aec.css",
-    "main.js": "/charty/static/js/main.54821ea3.js",
+    "main.js": "/charty/static/js/main.6e4bd3f0.js",
     "index.html": "/charty/index.html",
     "main.885b9aec.css.map": "/charty/static/css/main.885b9aec.css.map",
-    "main.54821ea3.js.map": "/charty/static/js/main.54821ea3.js.map"
+    "main.6e4bd3f0.js.map": "/charty/static/js/main.6e4bd3f0.js.map"
   },
   "entrypoints": [
     "static/css/main.885b9aec.css",
-    "static/js/main.54821ea3.js"
+    "static/js/main.6e4bd3f0.js"
   ]
 }
